@@ -30,6 +30,8 @@
       },
       "currency": {
         "type": "string"
+        "dollar": "USD"
+        "ruble": "RUB"
       }
     }
   }
