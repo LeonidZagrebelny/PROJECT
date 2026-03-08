@@ -29,8 +29,8 @@
         "default": 0
       },
       "currency": {
-        "type": "string"
-        "dollar": "USD"
+        "type": "string",
+        "dollar": "USD",
         "ruble": "RUB"
       }
     }
